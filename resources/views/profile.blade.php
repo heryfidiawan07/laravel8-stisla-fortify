@@ -91,4 +91,8 @@
     @endif
   </div>
 </div>
+
+<div class="row">
+  @include('test')
+</div>
 @endsection
